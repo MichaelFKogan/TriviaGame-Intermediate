@@ -1,0 +1,83 @@
+body {
+    background-image: url("637668.jpg");
+    background-size:cover;
+    background-position:center-bottom;
+    background-repeat: repeat;
+
+    
+    }
+
+    *{
+        box-sizing: border-box;
+    }
+
+
+  .container{
+    margin-bottom:0px;
+  }
+
+  .timer{
+  	color:#eee;
+  }
+ 
+
+  #directions{
+  	background: #eee;
+  	padding:30px;
+  	margin-bottom: 30px;
+}
+
+.jumbotron{
+	overflow: auto;
+	
+}
+
+/*TITLE*/
+#jumbotron0{
+  padding:10px 15px 0px 15px;
+  height:250px;
+}
+
+/*TIMER*/
+#jumbotron1{
+/*position:fixed;
+left:100px;
+z-index: 1;
+opacity: 0.8;*/
+height:70px;
+}
+
+/*START BUTTON*/
+#jumbotron2{}
+
+
+
+
+/*QUESTIONS*/
+#jumbotron3{
+    margin-top:0px;
+    
+    
+
+}
+
+.radio-inline{
+
+}
+
+#jumbotron5{
+	opacity:0;
+}
+
+#next{
+  }
+
+
+
+
+
+
+
+
+
+
